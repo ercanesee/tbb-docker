@@ -1,0 +1,7 @@
+C:\Users\EE\Desktop\TBB Projects\tbb-mvc\tbbdocker\out\tbbdocker.exe
+C:\Users\EE\Desktop\TBB Projects\tbb-mvc\tbbdocker\out\appsettings.Development.json
+C:\Users\EE\Desktop\TBB Projects\tbb-mvc\tbbdocker\out\appsettings.json
+C:\Users\EE\Desktop\TBB Projects\tbb-mvc\tbbdocker\out\tbbdocker.dll
+C:\Users\EE\Desktop\TBB Projects\tbb-mvc\tbbdocker\out\tbbdocker.deps.json
+C:\Users\EE\Desktop\TBB Projects\tbb-mvc\tbbdocker\out\tbbdocker.runtimeconfig.json
+C:\Users\EE\Desktop\TBB Projects\tbb-mvc\tbbdocker\out\tbbdocker.pdb
